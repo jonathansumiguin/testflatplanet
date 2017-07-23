@@ -1,0 +1,88 @@
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\csc.exe
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\vbc.exe
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\TestFlatPlanet.dll.config
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\TestFlatPlanet.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\TestFlatPlanet.pdb
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\Newtonsoft.Json.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Net.Http.Formatting.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Helpers.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Http.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Http.WebHost.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Mvc.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Razor.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.Razor.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\TestFlatPlanet.DAL.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\TestFlatPlanet.DAL.pdb
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Razor.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.Razor.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Helpers.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Mvc.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\Newtonsoft.Json.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Net.Http.Formatting.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Http.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Http.WebHost.xml
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\obj\Debug\TestFlatPlanet.csprojResolveAssemblyReference.cache
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\obj\Debug\TestFlatPlanet.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet\obj\Debug\TestFlatPlanet.pdb
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\csc.exe
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\vbc.exe
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\VBCSCompiler.exe
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\TestFlatPlanet.dll.config
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\TestFlatPlanet.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\TestFlatPlanet.pdb
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\Newtonsoft.Json.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Net.Http.Formatting.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Helpers.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Http.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Http.WebHost.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Mvc.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Razor.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.Razor.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\TestFlatPlanet.DAL.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\TestFlatPlanet.DAL.pdb
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Razor.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Webpages.Razor.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Helpers.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Mvc.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\Newtonsoft.Json.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Net.Http.Formatting.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Http.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\bin\System.Web.Http.WebHost.xml
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\obj\Debug\TestFlatPlanet.csprojResolveAssemblyReference.cache
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\obj\Debug\TestFlatPlanet.dll
+C:\Users\ThatAwesomeGuy\Source\Repos\testflatplanet\TestFlatPlanet\TestFlatPlanet\obj\Debug\TestFlatPlanet.pdb

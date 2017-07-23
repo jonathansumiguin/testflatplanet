@@ -1,0 +1,4 @@
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet.DAL\bin\Debug\TestFlatPlanet.DAL.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet.DAL\bin\Debug\TestFlatPlanet.DAL.pdb
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet.DAL\obj\Debug\TestFlatPlanet.DAL.dll
+C:\Users\ThatAwesomeGuy\Documents\Visual Studio 2015\Projects\TestProjects\TestFlatPlanet\TestFlatPlanet.DAL\obj\Debug\TestFlatPlanet.DAL.pdb

@@ -1,0 +1,41 @@
+﻿<div class="col-xs-12 padding-top">
+    <div class="col-xs-offset-5">
+        <div class="row">
+            <h1 class="col-xs-offset-2" id="h-count-value"></h1>
+        </div>
+    </div>
+</div>
+
+<div class="col-xs-12 padding-top">
+    <div class="col-xs-offset-5">
+        <button type="button" class="col-xs-4 btn btn-primary" id="btn-update-count">Increment</button>
+    </div>
+</div>
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Error</h4>
+            </div>
+            <div class="modal-body">
+                <p>Cannot increment more than 10</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+@section scripts{
+    <script src="~/js/home.js"></script>
+    <link rel="stylesheet" href="~/Content/css/testFlatPlanet.css" />
+}
